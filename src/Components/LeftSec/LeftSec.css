@@ -1,0 +1,31 @@
+
+
+.LeftSec{
+    background-image: url('../imgs/bg.png');
+    width: 609px;
+    height: 930px;
+}
+
+.whiteq{
+    color: white;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.quote2{
+    margin-top: 230px;
+    text-align: left;
+}
+
+.vec{
+    position: relative;
+    left: 150px;
+    top: 100px;
+}
+
+.whitelogo{
+    margin-left: -340px;
+    margin-top: 30px;
+    position: relative;
+    top: 30px;
+}

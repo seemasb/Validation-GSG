@@ -1,0 +1,17 @@
+
+
+.error{
+    color: red;
+    text-align: left;
+    margin-top: -15px;
+    font-size: 13px;
+}
+
+#check{
+    height: 16px;
+    width: 16px;
+}
+
+.checkFlex{display: flex;
+gap: 10px;
+}

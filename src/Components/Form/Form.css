@@ -1,0 +1,60 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin-top: 28px;
+}
+
+label{
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+
+    color: #696F79;
+}
+
+input {
+    border: 1px solid #8692A6;
+    box-sizing: border-box;
+    border-radius: 6px;
+    height: 52px;
+    width: 404px;
+    padding-left: 20px;
+    outline: none;
+}
+
+.submit{
+    font-family: 'Inter', sans-serif;
+    background: #1565D8;
+    color: white;
+    font-size: 15px;
+    border: none;
+    cursor: pointer;
+    margin-top: 32px;
+    
+}
+
+.register {
+    font-family: 'Inter', sans-serif;
+    color: #696F79;
+    font-size: 14px;
+    margin-top: 8px;
+    margin-left: -35px;
+
+}
+
+.regiter2{
+    color: #1565D8;
+}
+
+a {
+    text-decoration: none;
+    color:#696F79 ;
+}
