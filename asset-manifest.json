@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Validation-GSG/static/css/main.6d3a666c.chunk.css",
+    "main.js": "/Validation-GSG/static/js/main.ec2abbe0.chunk.js",
+    "main.js.map": "/Validation-GSG/static/js/main.ec2abbe0.chunk.js.map",
+    "runtime-main.js": "/Validation-GSG/static/js/runtime-main.59866d50.js",
+    "runtime-main.js.map": "/Validation-GSG/static/js/runtime-main.59866d50.js.map",
+    "static/js/2.87f086f4.chunk.js": "/Validation-GSG/static/js/2.87f086f4.chunk.js",
+    "static/js/2.87f086f4.chunk.js.map": "/Validation-GSG/static/js/2.87f086f4.chunk.js.map",
+    "static/js/3.7338b59e.chunk.js": "/Validation-GSG/static/js/3.7338b59e.chunk.js",
+    "static/js/3.7338b59e.chunk.js.map": "/Validation-GSG/static/js/3.7338b59e.chunk.js.map",
+    "index.html": "/Validation-GSG/index.html",
+    "static/css/main.6d3a666c.chunk.css.map": "/Validation-GSG/static/css/main.6d3a666c.chunk.css.map",
+    "static/js/2.87f086f4.chunk.js.LICENSE.txt": "/Validation-GSG/static/js/2.87f086f4.chunk.js.LICENSE.txt",
+    "static/media/LeftSec.css": "/Validation-GSG/static/media/bg.0796ab0a.png",
+    "static/media/joy.899607da.png": "/Validation-GSG/static/media/joy.899607da.png",
+    "static/media/social.83359100.png": "/Validation-GSG/static/media/social.83359100.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59866d50.js",
+    "static/js/2.87f086f4.chunk.js",
+    "static/css/main.6d3a666c.chunk.css",
+    "static/js/main.ec2abbe0.chunk.js"
+  ]
+}
